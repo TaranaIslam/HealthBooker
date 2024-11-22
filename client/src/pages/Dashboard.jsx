@@ -14,8 +14,8 @@ const Dashboard = (props) => {
           <Sidebar />
           {type === "users" ? (
             <Users />
-          // ) : type === "doctors" ? (
-          //   <AdminDoctors />
+          ) : type === "doctors" ? (
+            <AdminDoctors />
           ) : type === "applications" ? (
             <AdminApplications />
           ) : type === "appointments" ? (
