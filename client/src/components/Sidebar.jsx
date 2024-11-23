@@ -28,21 +28,21 @@ const Sidebar = () => {
       path: "/dashboard/users",
       icon: <FaUsers />,
     },
-    // {
-    //   name: "Doctors",
-    //   path: "/dashboard/doctors",
-    //   icon: <FaUserMd />,
-    // },
-    // {
-    //   name: "Appointments",
-    //   path: "/dashboard/appointments",
-    //   icon: <FaList />,
-    // },
-    // {
-    //   name: "Applications",
-    //   path: "/dashboard/applications",
-    //   icon: <FaEnvelope />,
-    // },
+    {
+      name: "Doctors",
+      path: "/dashboard/doctors",
+      icon: <FaUserMd />,
+    },
+    {
+      name: "Appointments",
+      path: "/dashboard/appointments",
+      icon: <FaList />,
+    },
+    {
+      name: "Applications",
+      path: "/dashboard/applications",
+      icon: <FaEnvelope />,
+    },
     {
       name: "Profile",
       path: "/profile",
