@@ -95,7 +95,7 @@ const AdminApplications = () => {
             <div className="user-container">
               <table>
                 <thead>
-                  <tr>
+                <tr>
                     <th>S.No</th>
                     <th>Pic</th>
                     <th>First Name</th>
