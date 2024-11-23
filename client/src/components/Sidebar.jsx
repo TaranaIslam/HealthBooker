@@ -39,11 +39,6 @@ const Sidebar = () => {
       icon: <FaList />,
     },
     {
-      name: "Appointments",
-      path: "/dashboard/appointments",
-      icon: <FaList />,
-    },
-    {
       name: "Applications",
       path: "/dashboard/applications",
       icon: <FaEnvelope />,
